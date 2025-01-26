@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Message from the CEO",
+        "content": "Welcome to our new website! We are excited to share our new products with you. We hope you enjoy your experience here.",
+        "received": "10 minutes ago"
+    },
+    {
+        "title": "New Product Launch",
+        "content": "We are excited to announce the launch of our new product line. Check out our new products and let us know what you think.",
+        "received": "1 hour ago"
+    },
+    {
+        "title": "Holiday Sale",
+        "content": "Our holiday sale is now live! Get up to 50% off on select items. Don't miss out on these great deals.",
+        "received": "1 day ago"
+    }
+]
